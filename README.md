@@ -2,4 +2,4 @@
 # GPU:RTX2080
 # Runtime:3 hrs
 # result:
-![Image]()
+![Image](https://github.com/willy030/HW11/blob/master/AlexNet.PNG)
